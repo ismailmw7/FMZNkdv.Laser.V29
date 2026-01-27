@@ -16,7 +16,7 @@ cd FMZNkdv.Laser.V29
 ## Running
 
 ```bash
-zig run main.zig
+zig run Core.zig
 ```
 
 The server will start listening on `0.0.0.0:9339` by default.
